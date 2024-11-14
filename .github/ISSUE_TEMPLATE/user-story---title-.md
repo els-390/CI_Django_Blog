@@ -11,7 +11,6 @@ As a **role** I can **capability** so that **received benefit**
 
 ## Acceptance Criteria & Tasks:
 
-- [ ] Create buttons for different platform options 
-- [ ] Add URLs for relevant website to link to
-- [ ] Test buttons work as expected
-- [ ] Style buttons to match theme
+- [ ] AC1
+- [ ] AC2
+- [ ] AC3
