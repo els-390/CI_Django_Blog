@@ -86,9 +86,8 @@ WSGI_APPLICATION = 'codestar.wsgi.application'
 # }
 
 DATABASES = {
-    'default': dj_database_url.parse(os.environ.get("postgres://neondb_owner:jWhGMC03IZkE@ep-still-block-a2pz4scu.eu-central-1.aws.neon.tech/shout_tribe_flaky_582696"))
+    'default': dj_database_url.parse(os.environ.get("DATABASE_URL"))
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
