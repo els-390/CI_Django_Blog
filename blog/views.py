@@ -105,7 +105,7 @@ def comment_edit(request, slug, comment_id):
 
 
 def comment_delete(request, slug, comment_id):
-     """
+    """
     Delete an individual comment.
 
     **Context**
